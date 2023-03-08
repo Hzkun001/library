@@ -1,2 +1,2 @@
 # library
-anggap saja kamar baca :)
+Repo baca
